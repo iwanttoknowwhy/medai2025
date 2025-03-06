@@ -251,6 +251,8 @@
       <div class="sidebar">
         <h4>Recommended Journals</h4>
         <p>Health Data Science Computer Animation and Virtual Worlds</p>
+        <h4>IEEE MedAI 2025 Call for Papers: <a :href="url">CFP</a></h4>
+        <p></p>
       </div>
     </div>
   </div>
@@ -401,3 +403,13 @@ li {
   padding-left: 0;
 }
 </style>
+
+<script>
+export default {
+  data() {
+    return {
+      url: "https://easychair.org/cfp/IEEE-MedAI2025",
+    };
+  },
+};
+</script>
