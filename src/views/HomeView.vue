@@ -11,15 +11,48 @@
       <!-- Welcome Message Section -->
       <div class="welcome-message">
         <p class="welcome-text">
-          We invite submissions in two categories: regular papers and short
-          papers (including posters and abstracts). Short papers may present
-          previously published research findings and are limited to a maximum of
-          two pages. All selected submissions for oral presentation will qualify
-          for reduced registration and conference fees, and they will have the
-          opportunity for direct journal review and recommended publication
-          during the conference. All accepted papers will be published in the
-          conference proceedings by IEEE, provided there are no publication
-          conflicts.
+          Medical Artificial Intelligence is a highly specialized
+          interdisciplinary research field that lies at the intersection of
+          artificial intelligence (AI) and medicine. Building upon the success
+          of the inaugural The Third IEEE International conference on Medical
+          Artificial Intelligence (MedAI) is scheduled in Wuhan from November
+          19th to 21th, 2025.
+        </p>
+        <p class="welcome-text">
+          This prestigious event is expected to gather leading experts,
+          researchers, and professionals in the field to exchange knowledge,
+          present cutting-edge advancements, and foster collaborations in the
+          realm of MedAI. Specifically, the aim of this conference is two-fold:
+          (1) to showcase successful applications of AI techniques in solving
+          challenging biomedical problems, and (2) to foster more extensive and
+          deeper interactions and collaborations between medical researchers and
+          practitioners with challenging medical issues and AI researchers who
+          are eager to identify complex real-life problems for their techniques
+          or to start developing novel algorithms to solve challenging medical
+          issues. Such issues may range from molecular-level challenges, such as
+          diagnostic issues, information extraction, analyses, and modeling from
+          massive medical data, to mining electronic medical records,
+          knowledge-based treatment plan recommendation, and further to robotics
+          to conduct complex surgeries.
+        </p>
+        <p class="welcome-text">
+          The conference invites submissions in two categories: regular papers
+          and short papers, which include posters and abstracts. Short papers
+          may present previously published research findings and are limited to
+          a maximum of two pages. All selected submissions for oral
+          presentation—comprising regular papers, posters, and abstracts—will
+          qualify for reduced registration and conference fees, and they will
+          have the opportunity for direct journal review and recommended
+          publication during the conference.
+        </p>
+        <p class="welcome-text">
+          All accepted papers, provided there are no publication conflicts, will
+          be published in the conference proceedings by IEEE. We strongly
+          encourage the presentation of high-quality research that has been
+          previously published in prestigious journals and conferences, as this
+          will be recognized during the event. Authors of short papers may
+          choose not to publish in the proceedings and may instead have their
+          work showcased solely on the conference website.
         </p>
       </div>
 
